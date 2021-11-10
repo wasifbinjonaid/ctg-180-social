@@ -1,0 +1,4 @@
+Social Projects
+database: social
+Username: root
+password: 
